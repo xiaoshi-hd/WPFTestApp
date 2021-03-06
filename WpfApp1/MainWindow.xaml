@@ -21,7 +21,7 @@
         <Button
             x:Name="button"
             Width="100"
-            Margin="10"
+            Margin="5"
             materialDesign:ButtonProgressAssist.IsIndeterminate="True"
             materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
             materialDesign:ButtonProgressAssist.Value="-1"
